@@ -1,0 +1,79 @@
+{
+  "id": "4306221",
+  "name": "留言墙",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "icon",
+  "glyphs": [
+    {
+      "icon_id": "2020253",
+      "name": "修改",
+      "font_class": "xiugai",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "250681",
+      "name": "失败报错-",
+      "font_class": "shibaibaocuo",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "250689",
+      "name": "信息提示-",
+      "font_class": "xinxitishi",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "250695",
+      "name": "成功已解决-",
+      "font_class": "chenggongyijiejue",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "577402",
+      "name": "向右1",
+      "font_class": "xiangyou1",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "577406",
+      "name": "向左1",
+      "font_class": "xiangzuo1",
+      "unicode": "e779",
+      "unicode_decimal": 59257
+    },
+    {
+      "icon_id": "1418212",
+      "name": "留言",
+      "font_class": "liuyan",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "5387522",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "eaf2",
+      "unicode_decimal": 60146
+    },
+    {
+      "icon_id": "5387527",
+      "name": "加号",
+      "font_class": "jiahao",
+      "unicode": "eaf3",
+      "unicode_decimal": 60147
+    },
+    {
+      "icon_id": "11372756",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e8c3",
+      "unicode_decimal": 59587
+    }
+  ]
+}
